@@ -1,0 +1,79 @@
+{
+  "id": "1724401",
+  "name": "智慧水利综合管理平台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14320031",
+      "name": "短信",
+      "font_class": "duanxin",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "14320032",
+      "name": "雨情",
+      "font_class": "yuqing",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "14320033",
+      "name": "系统管理",
+      "font_class": "xitongguanli1",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "14320034",
+      "name": "站点列表",
+      "font_class": "zhandianliebiao1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "14320035",
+      "name": "站点gis地图",
+      "font_class": "zhandiangisditu",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "8007525",
+      "name": "电脑的副本",
+      "font_class": "diannaodefuben",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "459500",
+      "name": "退出",
+      "font_class": "logout",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "688093",
+      "name": "全屏 最大化",
+      "font_class": "quanpingzuidahua",
+      "unicode": "e786",
+      "unicode_decimal": 59270
+    },
+    {
+      "icon_id": "4320351",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "6010908",
+      "name": "用户名",
+      "font_class": "yonghuming",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
