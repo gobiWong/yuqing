@@ -14,7 +14,7 @@
     "element-china-area-data": "^4.1.2",
     "element-ui": "^2.13.0",
     "lib-flexible": "^0.3.2",
-    "qs": "^6.9.3",
+    "qs": "^6.9.7",
     "vue": "^2.6.11",
     "vue-baidu-map": "^0.21.22",
     "vue-router": "^3.1.5",
